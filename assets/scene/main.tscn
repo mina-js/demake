@@ -1,6 +1,6 @@
 [gd_scene load_steps=5 format=3 uid="uid://bmyhbnmo3jhkv"]
 
-[ext_resource type="Script" path="res://data/main.gd" id="1_pra24"]
+[ext_resource type="Script" uid="uid://dyjmmsylt1x22" path="res://data/main.gd" id="1_pra24"]
 [ext_resource type="PackedScene" uid="uid://1ujfoei6r514" path="res://data/modules/tactics/camera/camera.tscn" id="2_j6uwt"]
 [ext_resource type="PackedScene" uid="uid://bky8ul2628kxw" path="res://data/modules/tactics/controls/controls.tscn" id="3_swndv"]
 

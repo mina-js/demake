@@ -1,6 +1,6 @@
 [gd_scene load_steps=204 format=4 uid="uid://dwbmgds45ep4o"]
 
-[ext_resource type="Script" path="res://data/modules/tactics/level/arena/tactics_arena.gd" id="1_yiy0p"]
+[ext_resource type="Script" uid="uid://bttrehovmoqpo" path="res://data/modules/tactics/level/arena/tactics_arena.gd" id="1_yiy0p"]
 
 [sub_resource type="ArrayMesh" id="2"]
 resource_name = "Cube005"

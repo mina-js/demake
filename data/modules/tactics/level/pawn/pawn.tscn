@@ -1,8 +1,8 @@
 [gd_scene load_steps=18 format=3 uid="uid://6eofg7n4asn5"]
 
-[ext_resource type="Script" path="res://data/modules/tactics/level/pawn/pawn.gd" id="1"]
+[ext_resource type="Script" uid="uid://cqbtxarptt27r" path="res://data/modules/tactics/level/pawn/pawn.gd" id="1"]
 [ext_resource type="Texture2D" uid="uid://bob12its3i651" path="res://assets/textures/actor/chr_pawn_placeholder.png" id="2"]
-[ext_resource type="Script" path="res://data/models/world/combat/participant/pawn/service/sprite.gd" id="3_cbwp5"]
+[ext_resource type="Script" uid="uid://78owakr6ws5g" path="res://data/models/world/combat/participant/pawn/service/sprite.gd" id="3_cbwp5"]
 
 [sub_resource type="CapsuleShape3D" id="13"]
 height = 2.15
@@ -59,10 +59,10 @@ tracks/0/keys = {
 
 [sub_resource type="AnimationLibrary" id="AnimationLibrary_4xm2j"]
 _data = {
-"DAMAGE": SubResource("17"),
-"IDLE": SubResource("4"),
-"JUMP": SubResource("6"),
-"RESET": SubResource("5")
+&"DAMAGE": SubResource("17"),
+&"IDLE": SubResource("4"),
+&"JUMP": SubResource("6"),
+&"RESET": SubResource("5")
 }
 
 [sub_resource type="AnimationNodeAnimation" id="18"]
